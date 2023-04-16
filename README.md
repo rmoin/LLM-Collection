@@ -23,7 +23,6 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
 - [ChatGPT Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin)
 - [LLAMA Index](https://github.com/jerryjliu/llama_index)
-- 
 
 
 ### Workshop
@@ -43,6 +42,7 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [List of Open Source LLMs](https://medium.com/geekculture/list-of-open-sourced-fine-tuned-large-language-models-llm-8d95a2e0dc76)
 - [Prompts are Knowledge Graphs](https://thecaglereport.com/2023/04/12/why-prompts-are-the-future-of-knowledge-graphs)
 - [Sparks of AGI: early experiments with GPT-4](https://www.youtube.com/watch?v=qbIk7-JPB2c)
+- [Fine Tune Open LLMs](https://www.anyscale.com/blog/how-to-fine-tune-and-serve-llms-simply-quickly-and-cost-effectively-using)
 
 <br>
 ---
