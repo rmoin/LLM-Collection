@@ -44,6 +44,7 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [Sparks of AGI: early experiments with GPT-4](https://www.youtube.com/watch?v=qbIk7-JPB2c)
 - [Fine Tune Open LLMs](https://www.anyscale.com/blog/how-to-fine-tune-and-serve-llms-simply-quickly-and-cost-effectively-using)
 - [AOAI Infohraphics](https://azure.microsoft.com/en-us/products/cognitive-services/openai-service/?ocid=AID3052464_LINKEDIN_oo_spl100003875566210)
+- [Streamlit on Azure](https://towardsdatascience.com/beginner-guide-to-streamlit-deployment-on-azure-f6618eee1ba9)
 
 <br>
 ---
