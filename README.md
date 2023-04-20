@@ -43,6 +43,7 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [Prompts are Knowledge Graphs](https://thecaglereport.com/2023/04/12/why-prompts-are-the-future-of-knowledge-graphs)
 - [Sparks of AGI: early experiments with GPT-4](https://www.youtube.com/watch?v=qbIk7-JPB2c)
 - [Fine Tune Open LLMs](https://www.anyscale.com/blog/how-to-fine-tune-and-serve-llms-simply-quickly-and-cost-effectively-using)
+- [AOAI Infohraphics](https://azure.microsoft.com/en-us/products/cognitive-services/openai-service/?ocid=AID3052464_LINKEDIN_oo_spl100003875566210)
 
 <br>
 ---
