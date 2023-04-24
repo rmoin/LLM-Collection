@@ -23,6 +23,7 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
 - [ChatGPT Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin)
 - [LLAMA Index](https://github.com/jerryjliu/llama_index)
+- [SPTAG](https://github.com/Microsoft/SPTAG) -   Vector Search
 
 
 ### Workshop
