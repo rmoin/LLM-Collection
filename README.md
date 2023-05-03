@@ -25,6 +25,8 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [LLAMA Index](https://github.com/jerryjliu/llama_index)
 - [SPTAG](https://github.com/Microsoft/SPTAG) -   Vector Search
 - [Open AI Samples](https://github.com/Azure/openai-samples) - Azure OpenAI
+- [Msft Semantic Kernel](https://github.com/microsoft/semantic-kernel/tree/main/samples/apps/copilot-chat-app)
+- [Auto GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 
 
 ### Workshop
@@ -35,8 +37,10 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [Data Science for Manager](https://github.com/microsoft/datascience4managers) - Generalization, Utility, and Experimentation: ML Concepts for Making Better Business Decisions
 - [Formal Algorithms for Transformers](https://arxiv.org/pdf/2207.09238.pdf)
 - [LLM for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
+- [RLHF](https://huyenchip.com/2023/05/02/rlhf.html)
 - [Why Can GPT Learn In-Context?](https://arxiv.org/pdf/2212.10559.pdf)
 - [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction) - Andrew Ng
+- [LLM Practical Guide](https://github.com/Mooler0410/LLMsPracticalGuide)
 
 ## Blog, News & Webinar
 - [channel9 - AI Show](https://channel9.msdn.com/Shows/AI-Show) - videos for developers from people building Microsoft products and services.
