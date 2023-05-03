@@ -53,6 +53,7 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [AOAI Infohraphics](https://azure.microsoft.com/en-us/products/cognitive-services/openai-service/?ocid=AID3052464_LINKEDIN_oo_spl100003875566210)
 - [Streamlit on Azure](https://towardsdatascience.com/beginner-guide-to-streamlit-deployment-on-azure-f6618eee1ba9)
 - [The Inside Story of ChatGPT’s Astonishing Potential](https://www.youtube.com/watch?v=C_78DM8fG6E) - Ted Talk
+- [Lamini](https://lamini.ai/blog/introducing-lamini)
 
 <br>
 ---
