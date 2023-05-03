@@ -24,6 +24,7 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [ChatGPT Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin)
 - [LLAMA Index](https://github.com/jerryjliu/llama_index)
 - [SPTAG](https://github.com/Microsoft/SPTAG) -   Vector Search
+- [Open AI Samples](https://github.com/Azure/openai-samples) - Azure OpenAI
 
 
 ### Workshop
@@ -35,6 +36,7 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [Formal Algorithms for Transformers](https://arxiv.org/pdf/2207.09238.pdf)
 - [LLM for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
 - [Why Can GPT Learn In-Context?](https://arxiv.org/pdf/2212.10559.pdf)
+- [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction) - Andrew Ng
 
 ## Blog, News & Webinar
 - [channel9 - AI Show](https://channel9.msdn.com/Shows/AI-Show) - videos for developers from people building Microsoft products and services.
@@ -46,6 +48,7 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [Fine Tune Open LLMs](https://www.anyscale.com/blog/how-to-fine-tune-and-serve-llms-simply-quickly-and-cost-effectively-using)
 - [AOAI Infohraphics](https://azure.microsoft.com/en-us/products/cognitive-services/openai-service/?ocid=AID3052464_LINKEDIN_oo_spl100003875566210)
 - [Streamlit on Azure](https://towardsdatascience.com/beginner-guide-to-streamlit-deployment-on-azure-f6618eee1ba9)
+- [The Inside Story of ChatGPT’s Astonishing Potential](https://www.youtube.com/watch?v=C_78DM8fG6E) - Ted Talk
 
 <br>
 ---
