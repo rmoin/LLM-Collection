@@ -27,6 +27,7 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [Open AI Samples](https://github.com/Azure/openai-samples) - Azure OpenAI
 - [Msft Semantic Kernel](https://github.com/microsoft/semantic-kernel/tree/main/samples/apps/copilot-chat-app) - Microsoft - Langchain Alternative
 - [Auto GPT](https://github.com/Significant-Gravitas/Auto-GPT)
+- [Stanford DSP RAG](https://github.com/stanfordnlp/dsp)
 
 
 ### Workshop
