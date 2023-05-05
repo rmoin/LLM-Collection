@@ -16,16 +16,16 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [MS MARCO](https://microsoft.github.io/msmarco/) - collection of datasets focused on deep learning in search.
 
 ### Sample Code
-- [DeepSpeed Examples](https://github.com/microsoft/DeepSpeedExamples) - Example models using DeepSpeed
+- [DeepSpeed Examples](https://github.com/microsoft/DeepSpeedExamples) - Example models using DeepSpeed - Microsoft
 - [GPT-4-LLM](https://instruction-tuning-with-gpt-4.github.io/) - Instruction Tuning with GPT-4 - Research Project
-- [GPT - ALE](https://github.com/Azure/GPT_ALE) - Generative Pre-trained Transformer - Active Learning Engine - Research Project
-- [DeepSpeed Chat](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-chat)
-- [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
-- [ChatGPT Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin)
-- [LLAMA Index](https://github.com/jerryjliu/llama_index)
-- [SPTAG](https://github.com/Microsoft/SPTAG) -   Vector Search
+- [GPT - ALE](https://github.com/Azure/GPT_ALE) - Generative Pre-trained Transformer - Active Learning Engine - Research Project - Microsoft
+- [DeepSpeed Chat](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-chat) - Microsoft
+- [OpenAI Cookbook](https://github.com/openai/openai-cookbook) - Open AI
+- [ChatGPT Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin) - Open AI
+- [LLAMA Index](https://github.com/jerryjliu/llama_index) - Open Source
+- [SPTAG](https://github.com/Microsoft/SPTAG) - Vector Search - Open Source - Microsoft
 - [Open AI Samples](https://github.com/Azure/openai-samples) - Azure OpenAI
-- [Msft Semantic Kernel](https://github.com/microsoft/semantic-kernel/tree/main/samples/apps/copilot-chat-app)
+- [Msft Semantic Kernel](https://github.com/microsoft/semantic-kernel/tree/main/samples/apps/copilot-chat-app) - Microsoft - Langchain Alternative
 - [Auto GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 
 
@@ -36,11 +36,16 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 ## Learning
 - [Data Science for Manager](https://github.com/microsoft/datascience4managers) - Generalization, Utility, and Experimentation: ML Concepts for Making Better Business Decisions
 - [Formal Algorithms for Transformers](https://arxiv.org/pdf/2207.09238.pdf)
-- [LLM for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
-- [RLHF](https://huyenchip.com/2023/05/02/rlhf.html)
+- [LLM for production](https://huyenchip.com/2023/04/11/llm-engineering.html) - Chip
+- [RLHF](https://huyenchip.com/2023/05/02/rlhf.html) - Chip
 - [Why Can GPT Learn In-Context?](https://arxiv.org/pdf/2212.10559.pdf)
 - [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction) - Andrew Ng
 - [LLM Practical Guide](https://github.com/Mooler0410/LLMsPracticalGuide)
+- [Embedding Tutorial](https://www.youtube.com/watch?v=jBtW4wsBVlk) - Azure
+- [Unlimiformer: Long-Range Transformers with Unlimited Length Input](https://arxiv.org/abs/2305.01625) - paper
+- [Unlimiformer](https://github.com/abertsch72/unlimiformer) - Code
+- [Distilling Step-by-Step](https://arxiv.org/pdf/2305.02301.pdf) - Paper
+- [Search in the chain](https://arxiv.org/pdf/2304.14732.pdf) - Paper
 
 ## Blog, News & Webinar
 - [channel9 - AI Show](https://channel9.msdn.com/Shows/AI-Show) - videos for developers from people building Microsoft products and services.
@@ -54,6 +59,8 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [Streamlit on Azure](https://towardsdatascience.com/beginner-guide-to-streamlit-deployment-on-azure-f6618eee1ba9)
 - [The Inside Story of ChatGPT’s Astonishing Potential](https://www.youtube.com/watch?v=C_78DM8fG6E) - Ted Talk
 - [Lamini](https://lamini.ai/blog/introducing-lamini)
+- [Query-based document summarization](https://learn.microsoft.com/en-us/azure/architecture/guide/ai/query-based-summarization) - Azure Learning
+- [Hugging chat](https://huggingface.co/chat)
 
 <br>
 ---
