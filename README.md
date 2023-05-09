@@ -28,6 +28,9 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [Msft Semantic Kernel](https://github.com/microsoft/semantic-kernel/tree/main/samples/apps/copilot-chat-app) - Microsoft - Langchain Alternative
 - [Auto GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 - [Stanford DSP RAG](https://github.com/stanfordnlp/dsp)
+- [Open LLaMA](https://github.com/openlm-research/open_llama.git)
+- [MPT-7B](https://www.mosaicml.com/blog/mpt-7b)
+- [Guidance](https://github.com/microsoft/guidance) - Microsoft Open Source
 
 
 ### Workshop
@@ -39,6 +42,7 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [Formal Algorithms for Transformers](https://arxiv.org/pdf/2207.09238.pdf)
 - [LLM for production](https://huyenchip.com/2023/04/11/llm-engineering.html) - Chip
 - [RLHF](https://huyenchip.com/2023/05/02/rlhf.html) - Chip
+- [MLOPs](https://huyenchip.com/mlops/) - Chip
 - [Why Can GPT Learn In-Context?](https://arxiv.org/pdf/2212.10559.pdf)
 - [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction) - Andrew Ng
 - [LLM Practical Guide](https://github.com/Mooler0410/LLMsPracticalGuide)
