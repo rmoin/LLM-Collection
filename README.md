@@ -36,6 +36,7 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 ### Workshop
 - [Workshop Wiki](https://github.com/microsoft/machine-learning-collection/wiki/Workshop)
 - [SDP OpenAI Workshop](https://github.com/microsoft/OpenAIWorkshop)
+- [OpenAI in a Day](https://github.com/csiebler/openai-in-a-day/tree/main)
 
 ## Learning
 - [Data Science for Manager](https://github.com/microsoft/datascience4managers) - Generalization, Utility, and Experimentation: ML Concepts for Making Better Business Decisions
