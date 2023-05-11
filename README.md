@@ -31,7 +31,11 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [Open LLaMA](https://github.com/openlm-research/open_llama.git)
 - [MPT-7B](https://www.mosaicml.com/blog/mpt-7b)
 - [Guidance](https://github.com/microsoft/guidance) - Microsoft Open Source
-
+- [Transformer Agents](https://huggingface.co/docs/transformers/transformers_agents) - Hugging Face
+- [chatGPT Enterprise](https://github.com/anildwarepo/ChatGPTOnAzure/tree/main)
+- [Accelerator on Search and OpenAI](https://github.com/pablomarin/GPT-Azure-Search-Engine/tree/main) - Microsoft
+- [ChatGPT + Enterprise data with Azure OpenAI](https://github.com/Azure-Samples/azure-search-openai-demo)  - Microsoft
+- [Natural Language Query](https://github.com/microsoft/OpenAIWorkshop/tree/main/scenarios/natural_language_query/streamlit) - Microsoft
 
 ### Workshop
 - [Workshop Wiki](https://github.com/microsoft/machine-learning-collection/wiki/Workshop)
