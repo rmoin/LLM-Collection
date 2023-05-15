@@ -38,6 +38,7 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [ChatGPT + Enterprise data with Azure OpenAI](https://github.com/Azure-Samples/azure-search-openai-demo)  - Microsoft
 - [Natural Language Query](https://github.com/microsoft/OpenAIWorkshop/tree/main/scenarios/natural_language_query/streamlit) - Microsoft
 - [Private GPT](https://github.com/imartinez/privateGPT)
+- [Document Analysis using GPT-3](https://github.com/ryubidragonfire/document-analysis-using-gpt-3)
 
 
 ### Workshop
