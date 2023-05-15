@@ -37,6 +37,7 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [Accelerator on Search and OpenAI](https://github.com/pablomarin/GPT-Azure-Search-Engine/tree/main) - Microsoft
 - [ChatGPT + Enterprise data with Azure OpenAI](https://github.com/Azure-Samples/azure-search-openai-demo)  - Microsoft
 - [Natural Language Query](https://github.com/microsoft/OpenAIWorkshop/tree/main/scenarios/natural_language_query/streamlit) - Microsoft
+- [Private GPT](https://github.com/imartinez/privateGPT)
 
 
 ### Workshop
