@@ -39,6 +39,7 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [Natural Language Query](https://github.com/microsoft/OpenAIWorkshop/tree/main/scenarios/natural_language_query/streamlit) - Microsoft
 - [Private GPT](https://github.com/imartinez/privateGPT)
 - [Document Analysis using GPT-3](https://github.com/ryubidragonfire/document-analysis-using-gpt-3)
+- [Vector Search + Azure Cognitive Search](https://gist.github.com/kirkhofer/74ece682f35131e00f82a16f9e6030c3)
 
 
 ### Workshop
