@@ -62,6 +62,7 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [Unlimiformer](https://github.com/abertsch72/unlimiformer) - Code
 - [Distilling Step-by-Step](https://arxiv.org/pdf/2305.02301.pdf) - Paper
 - [Search in the chain](https://arxiv.org/pdf/2304.14732.pdf) - Paper
+- [InstructGPT Paper](https://arxiv.org/pdf/2203.02155.pdf) - Paper
 
 ## Blog, News & Webinar
 - [channel9 - AI Show](https://channel9.msdn.com/Shows/AI-Show) - videos for developers from people building Microsoft products and services.
