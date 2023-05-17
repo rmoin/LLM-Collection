@@ -64,7 +64,7 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [Search in the chain](https://arxiv.org/pdf/2304.14732.pdf) - Paper
 - [InstructGPT Paper](https://arxiv.org/pdf/2203.02155.pdf) - Paper
 - [Gil Strang's Final 18.06 Linear Algebra Lecture](https://www.youtube.com/watch?v=lUUte2o2Sn8)
-- [Msft LLM Foundation Models](https://learn.microsoft.com/en-us/azure/machine-learning/how-to-use-foundation-models) - Microsoft
+- [LLM Foundation Models on AML](https://learn.microsoft.com/en-us/azure/machine-learning/how-to-use-foundation-models) - Microsoft
 
 ## Blog, News & Webinar
 - [channel9 - AI Show](https://channel9.msdn.com/Shows/AI-Show) - videos for developers from people building Microsoft products and services.
