@@ -78,6 +78,7 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [Lamini](https://lamini.ai/blog/introducing-lamini)
 - [Query-based document summarization](https://learn.microsoft.com/en-us/azure/architecture/guide/ai/query-based-summarization) - Azure Learning
 - [Hugging chat](https://huggingface.co/chat)
+- [Ahead of AI](https://magazine.sebastianraschka.com/p/ai-research-highlights-in-3-sentences) - AI Research Highlights
 
 <br>
 ---
