@@ -65,6 +65,7 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [InstructGPT Paper](https://arxiv.org/pdf/2203.02155.pdf) - Paper
 - [Gil Strang's Final 18.06 Linear Algebra Lecture](https://www.youtube.com/watch?v=lUUte2o2Sn8)
 - [LLM Foundation Models on AML](https://learn.microsoft.com/en-us/azure/machine-learning/how-to-use-foundation-models) - Microsoft
+- [Analytical Application on chatGPT](https://giangnt2.medium.com/automating-analytical-application-with-chatgpt-bdc8d193275) - Microsoft
 
 ## Blog, News & Webinar
 - [channel9 - AI Show](https://channel9.msdn.com/Shows/AI-Show) - videos for developers from people building Microsoft products and services.
