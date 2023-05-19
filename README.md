@@ -43,6 +43,7 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [Knowledge Mining with Open AI](https://github.com/MSUSAzureAccelerators/Knowledge-Mining-with-OpenAI)
 - [Redis + chatGPT Q&A](https://github.com/RedisVentures/redis-openai-qna) - Redia as Vector Database
 - [chatGPT Memory](https://github.com/continuum-llms/chatgpt-memory)
+- [MotorHead LLM Memory](https://github.com/getmetal/motorhead/tree/main)
 
 ### Workshop
 - [Workshop Wiki](https://github.com/microsoft/machine-learning-collection/wiki/Workshop)
