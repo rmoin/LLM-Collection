@@ -41,7 +41,7 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [Document Analysis using GPT-3](https://github.com/ryubidragonfire/document-analysis-using-gpt-3)
 - [Vector Search + Azure Cognitive Search](https://gist.github.com/kirkhofer/74ece682f35131e00f82a16f9e6030c3)
 - [Knowledge Mining with Open AI](https://github.com/MSUSAzureAccelerators/Knowledge-Mining-with-OpenAI)
-
+- [Redis + chatGPT Q&A](https://github.com/RedisVentures/redis-openai-qna) - Redia as Vector Database
 
 ### Workshop
 - [Workshop Wiki](https://github.com/microsoft/machine-learning-collection/wiki/Workshop)
