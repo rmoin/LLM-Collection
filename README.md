@@ -72,6 +72,7 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [Flash Attention](https://github.com/HazyResearch/flash-attention)
 - [Transformers](https://web.stanford.edu/class/cs25/) - Stanford
 - [LinkedIn Post](https://www.linkedin.com/posts/sonali-pattnaik_ai-artificialintelligence-generativeai-activity-7065697107210358784-emym)
+- [Redis Collection](https://microsoft.sharepoint.com/teams/LevelUpSkilling/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FLevelUpSkilling%2FShared%20Documents%2FFY23%20Digital%20%26%20App%20Innovation%20LevelUp%20Program%2FAzure%20Cache%20for%20Redis%2FMay%2017%2D%20Redis%20VSS%20Enablement%20LevelUp%20Workshop&p=true&ct=1684349638069&or=Teams%2DHL&ga=1&LOF=1) - Microsoft
 
 ## Blog, News & Webinar
 - [channel9 - AI Show](https://channel9.msdn.com/Shows/AI-Show) - videos for developers from people building Microsoft products and services.
@@ -90,6 +91,7 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [Ahead of AI](https://magazine.sebastianraschka.com/p/ai-research-highlights-in-3-sentences) - AI Research Highlights
 - [chatgpt and conversational memory](https://medium.com/@avra42/how-to-build-a-chatbot-with-chatgpt-api-and-a-conversational-memory-in-python-8d856cda4542)
 - [Meerkat](https://hazyresearch.stanford.edu/blog/2023-03-01-meerkat) - Stanford
+- [Analytic on GPT](https://app-web-ulajovkr7vyd4.azurewebsites.net/)
 
 <br>
 ---
