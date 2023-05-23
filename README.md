@@ -46,6 +46,7 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [MotorHead LLM Memory](https://github.com/getmetal/motorhead/tree/main)
 - [LoRA](https://github.com/microsoft/LoRA) - Microsoft
 - [OpenAI Logging](https://github.com/Azure-Samples/openai-python-enterprise-logging) - [Addn Document](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/ai/log-monitor-azure-openai)
+- [LMQL](https://lmql.ai/)
 
 ### Workshop
 - [Workshop Wiki](https://github.com/microsoft/machine-learning-collection/wiki/Workshop)
