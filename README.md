@@ -70,6 +70,7 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [Analytical Application on chatGPT](https://giangnt2.medium.com/automating-analytical-application-with-chatgpt-bdc8d193275) - Microsoft
 - [Prompt Guide](https://www.promptingguide.ai/) - [Github](https://github.com/dair-ai/Prompt-Engineering-Guide)
 - [Flash Attention](https://github.com/HazyResearch/flash-attention)
+- [Transformers](https://web.stanford.edu/class/cs25/) - Stanford
 
 ## Blog, News & Webinar
 - [channel9 - AI Show](https://channel9.msdn.com/Shows/AI-Show) - videos for developers from people building Microsoft products and services.
