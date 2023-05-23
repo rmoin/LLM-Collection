@@ -87,6 +87,7 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [Hugging chat](https://huggingface.co/chat)
 - [Ahead of AI](https://magazine.sebastianraschka.com/p/ai-research-highlights-in-3-sentences) - AI Research Highlights
 - [chatgpt and conversational memory](https://medium.com/@avra42/how-to-build-a-chatbot-with-chatgpt-api-and-a-conversational-memory-in-python-8d856cda4542)
+- [Meerkat](https://hazyresearch.stanford.edu/blog/2023-03-01-meerkat) - Stanford
 
 <br>
 ---
