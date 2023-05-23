@@ -71,6 +71,7 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [Prompt Guide](https://www.promptingguide.ai/) - [Github](https://github.com/dair-ai/Prompt-Engineering-Guide)
 - [Flash Attention](https://github.com/HazyResearch/flash-attention)
 - [Transformers](https://web.stanford.edu/class/cs25/) - Stanford
+- [LinkedIn Post](https://www.linkedin.com/posts/sonali-pattnaik_ai-artificialintelligence-generativeai-activity-7065697107210358784-emym)
 
 ## Blog, News & Webinar
 - [channel9 - AI Show](https://channel9.msdn.com/Shows/AI-Show) - videos for developers from people building Microsoft products and services.
