@@ -98,5 +98,7 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [Meerkat](https://hazyresearch.stanford.edu/blog/2023-03-01-meerkat) - Stanford
 - [Analytic on GPT](https://app-web-ulajovkr7vyd4.azurewebsites.net/)
 - [Reframing Prompt](https://arxiv.org/pdf/2109.07830.pdf)
+- [Vector Similarity with Redis](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/vector-similarity-search-with-azure-cache-for-redis-enterprise/ba-p/3822059)
+
 <br>
 ---
