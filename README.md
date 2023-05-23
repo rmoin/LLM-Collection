@@ -54,6 +54,7 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [SDP OpenAI Workshop](https://github.com/microsoft/OpenAIWorkshop)
 - [OpenAI in a Day](https://github.com/csiebler/openai-in-a-day/tree/main)
 - [Semantic Kernel](https://iappwksp.com/) - Microsoft
+- [Zammo Accelerator](https://github.com/MSUSAzureAccelerators/Conversational-Azure-OpenAI-Accelerator)
 
 ## Learning
 - [Data Science for Manager](https://github.com/microsoft/datascience4managers) - Generalization, Utility, and Experimentation: ML Concepts for Making Better Business Decisions
