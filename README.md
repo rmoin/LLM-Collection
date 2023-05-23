@@ -49,6 +49,7 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [Workshop Wiki](https://github.com/microsoft/machine-learning-collection/wiki/Workshop)
 - [SDP OpenAI Workshop](https://github.com/microsoft/OpenAIWorkshop)
 - [OpenAI in a Day](https://github.com/csiebler/openai-in-a-day/tree/main)
+- [Semantic Kernel](https://iappwksp.com/) - Microsoft
 
 ## Learning
 - [Data Science for Manager](https://github.com/microsoft/datascience4managers) - Generalization, Utility, and Experimentation: ML Concepts for Making Better Business Decisions
