@@ -97,6 +97,6 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [chatgpt and conversational memory](https://medium.com/@avra42/how-to-build-a-chatbot-with-chatgpt-api-and-a-conversational-memory-in-python-8d856cda4542)
 - [Meerkat](https://hazyresearch.stanford.edu/blog/2023-03-01-meerkat) - Stanford
 - [Analytic on GPT](https://app-web-ulajovkr7vyd4.azurewebsites.net/)
-
+- [Reframing Prompt](https://arxiv.org/pdf/2109.07830.pdf)
 <br>
 ---
