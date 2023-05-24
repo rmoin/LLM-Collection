@@ -48,7 +48,8 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [OpenAI Logging](https://github.com/Azure-Samples/openai-python-enterprise-logging) - [Addn Document](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/ai/log-monitor-azure-openai)
 - [LMQL](https://lmql.ai/)
 - [MMReact](https://multimodal-react.github.io/)
-- [azure openai apim](https://github.com/mattfeltonma/azure-openai-apim)
+- [azure openai apim](https://github.com/mattfeltonma/azure-openai-apim) - Microsoft
+- [cognitive search vector](https://github.com/Azure/cognitive-search-vector-pr/tree/main) - Microsoft
 
 ### Workshop
 - [Workshop Wiki](https://github.com/microsoft/machine-learning-collection/wiki/Workshop)
