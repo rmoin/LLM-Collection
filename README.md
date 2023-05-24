@@ -48,6 +48,7 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [OpenAI Logging](https://github.com/Azure-Samples/openai-python-enterprise-logging) - [Addn Document](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/ai/log-monitor-azure-openai)
 - [LMQL](https://lmql.ai/)
 - [MMReact](https://multimodal-react.github.io/)
+- [azure openai apim](https://github.com/mattfeltonma/azure-openai-apim)
 
 ### Workshop
 - [Workshop Wiki](https://github.com/microsoft/machine-learning-collection/wiki/Workshop)
@@ -100,6 +101,7 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [Analytic on GPT](https://app-web-ulajovkr7vyd4.azurewebsites.net/)
 - [Reframing Prompt](https://arxiv.org/pdf/2109.07830.pdf)
 - [Vector Similarity with Redis](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/vector-similarity-search-with-azure-cache-for-redis-enterprise/ba-p/3822059)
+- [Granular Chargebacks in Azure OpenAI Service](https://journeyofthegeek.com/)
 
 <br>
 ---
