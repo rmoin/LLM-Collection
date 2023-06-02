@@ -104,6 +104,7 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [Reframing Prompt](https://arxiv.org/pdf/2109.07830.pdf)
 - [Vector Similarity with Redis](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/vector-similarity-search-with-azure-cache-for-redis-enterprise/ba-p/3822059)
 - [Granular Chargebacks in Azure OpenAI Service](https://journeyofthegeek.com/)
+- [a16z](https://a16z.com/2023/05/25/ai-canon/)
 
 <br>
 ---
