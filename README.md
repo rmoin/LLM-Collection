@@ -50,6 +50,7 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [MMReact](https://multimodal-react.github.io/)
 - [azure openai apim](https://github.com/mattfeltonma/azure-openai-apim) - Microsoft
 - [cognitive search vector](https://github.com/Azure/cognitive-search-vector-pr/tree/main) - Microsoft
+- [KG guided NLP](https://github.com/nlp-anonymous-happy/anonymous-KG-guided-NLP)
 
 ### Workshop
 - [Workshop Wiki](https://github.com/microsoft/machine-learning-collection/wiki/Workshop)
