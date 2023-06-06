@@ -109,6 +109,7 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [Knowledge Graph + LLM](https://medium.com/@peter.lawrence_47665/knowledge-graphs-large-language-models-the-ability-for-users-to-ask-their-own-questions-e4afc348fa72)
 - [Azure OpenAI Indept Blog](https://journeyofthegeek.com/)
 - [Podcast Copilot Kevin Scott](https://github.com/microsoft/PodcastCopilot)
+- [What runs chatGPT](https://www.youtube.com/watch?v=Rk3nTUfRZmo)
 
 <br>
 ---
