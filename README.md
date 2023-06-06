@@ -107,6 +107,7 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [Granular Chargebacks in Azure OpenAI Service](https://journeyofthegeek.com/)
 - [a16z](https://a16z.com/2023/05/25/ai-canon/)
 - [Knowledge Graph + LLM](https://medium.com/@peter.lawrence_47665/knowledge-graphs-large-language-models-the-ability-for-users-to-ask-their-own-questions-e4afc348fa72)
+- [Azure OpenAI Indept Blog](https://journeyofthegeek.com/)
 
 <br>
 ---
