@@ -4,6 +4,7 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 
 ## Table of Contents
 
+- [Demos](#demos)
 - [Datasets](#datasets)
 - [Sample Code](#sample-code)
 - [Workshop](#workshop)
@@ -11,6 +12,11 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [Blog, News & Webinar](#blog-news--webinar)
 
 ---
+
+### Demos
+[Chat with your data](https://entgptsearch.azurewebsites.net/)
+[Chat - Stuctured](https://aoaisearchdemo.azurewebsites.net/)
+[Chat - Customized](https://app-backend-qjo37ccgfdbr6.azurewebsites.net/)
 
 ### Datasets
 - [MS MARCO](https://microsoft.github.io/msmarco/) - collection of datasets focused on deep learning in search.
@@ -110,6 +116,8 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [Azure OpenAI Indept Blog](https://journeyofthegeek.com/)
 - [Podcast Copilot Kevin Scott](https://github.com/microsoft/PodcastCopilot)
 - [What runs chatGPT](https://www.youtube.com/watch?v=Rk3nTUfRZmo)
+- [Emerging LLM Architecture](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)
+- [The New Moat](https://greylock.com/greymatter/the-new-new-moats/)
 
 <br>
 ---
