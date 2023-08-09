@@ -14,9 +14,9 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 ---
 
 ### Demos
-- [Chat with your data](https://entgptsearch.azurewebsites.net/)
-- [Chat - Stuctured](https://aoaisearchdemo.azurewebsites.net/)
-- [Chat - Customized](https://app-backend-qjo37ccgfdbr6.azurewebsites.net/)
+- [Chat with your data](https://entgptsearch.azurewebsites.net/) [Code](https://github.com/Azure-Samples/azure-search-openai-demo/)
+- [Chat - Stuctured](https://aoaisearchdemo.azurewebsites.net/) [Code](https://github.com/Azure-Samples/openai/tree/main/End_to_end_Solutions/AOAISearchDemo)
+- [Azure chatGPT Code](https://github.com/microsoft/azurechatgpt)
 
 ### Datasets
 - [MS MARCO](https://microsoft.github.io/msmarco/) - collection of datasets focused on deep learning in search.
