@@ -14,8 +14,8 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 ---
 
 ### Demos
-- [Chat with your data](https://entgptsearch.azurewebsites.net/) [Code](https://github.com/Azure-Samples/azure-search-openai-demo/)
-- [Chat - Stuctured](https://aoaisearchdemo.azurewebsites.net/) [Code](https://github.com/Azure-Samples/openai/tree/main/End_to_end_Solutions/AOAISearchDemo)
+- [Chat with your data](https://entgptsearch.azurewebsites.net/) - [Code](https://github.com/Azure-Samples/azure-search-openai-demo/)
+- [Chat - Stuctured](https://aoaisearchdemo.azurewebsites.net/) - [Code](https://github.com/Azure-Samples/openai/tree/main/End_to_end_Solutions/AOAISearchDemo)
 - [Azure chatGPT Code](https://github.com/microsoft/azurechatgpt)
 
 ### Datasets
