@@ -57,6 +57,9 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [azure openai apim](https://github.com/mattfeltonma/azure-openai-apim) - Microsoft
 - [cognitive search vector](https://github.com/Azure/cognitive-search-vector-pr/tree/main) - Microsoft
 - [KG guided NLP](https://github.com/nlp-anonymous-happy/anonymous-KG-guided-NLP)
+- [Type Chat](https://github.com/microsoft/TypeChat/tree/main) - TypeChat replaces prompt engineering with schema engineering - Msft
+- [DeepSpeed Chat](https://github.com/microsoft/DeepSpeedExamples/tree/master/applications/DeepSpeed-Chat) - Easy, Fast and Affordable RLHF Training Framework - Msft
+- [Flowise - Build LLM Apps Easily](https://github.com/FlowiseAI/Flowise/tree/main)
 
 ### Workshop
 - [Workshop Wiki](https://github.com/microsoft/machine-learning-collection/wiki/Workshop)
@@ -92,6 +95,10 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [Redis Collection](https://microsoft.sharepoint.com/teams/LevelUpSkilling/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FLevelUpSkilling%2FShared%20Documents%2FFY23%20Digital%20%26%20App%20Innovation%20LevelUp%20Program%2FAzure%20Cache%20for%20Redis%2FMay%2017%2D%20Redis%20VSS%20Enablement%20LevelUp%20Workshop&p=true&ct=1684349638069&or=Teams%2DHL&ga=1&LOF=1) - Microsoft
 - [Text to SQL Paper](https://arxiv.org/pdf/2305.14215.pdf)
 - [Grounding LLMs](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/grounding-llms/ba-p/3843857)
+- [Open Challenges in LLM](https://huyenchip.com/2023/08/16/llm-research-open-challenges.html) - Huyen Blog 2
+- [Fine Tuning LLama2 7b on AML](https://medium.com/mlearning-ai/azure-machine-learning-fine-tuning-llama2-7b-99af6e3af87)
+- [Azure OpenAI Cost Mgmt](https://techcommunity.microsoft.com/t5/azure-governance-and-management/azure-budgets-and-azure-openai-cost-management/ba-p/3904833?WT.mc_id=DT-MVP-5001664)
+- [Best Practices for chatGPT Implentation](https://medium.com/@imicknl/how-to-improve-your-chatgpt-on-your-data-solution-d1e842d87404)
 
 ## Blog, News & Webinar
 - [channel9 - AI Show](https://channel9.msdn.com/Shows/AI-Show) - videos for developers from people building Microsoft products and services.
@@ -121,6 +128,9 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [What runs chatGPT](https://www.youtube.com/watch?v=Rk3nTUfRZmo)
 - [Emerging LLM Architecture](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)
 - [The New Moat](https://greylock.com/greymatter/the-new-new-moats/)
+- [Yann LeCun chatoGPT Talk](https://www.youtube.com/watch?v=vyqXLJsmsrk&list=PLKemzYMx2_Ot1MZ_er2vFiINdJEgDO8Hg)
+- [LLM Adaptation Guide](https://foundationcapital.com/applying-generative-ai-to-enterprise-use-cases-a-step-by-step-guide/) - Foundation Capital Blog
+- [Multi Modal Transaltion Model](https://ai.meta.com/resources/models-and-libraries/seamless-communication/?utm_source=linkedin&utm_medium=organic_social&utm_campaign=seamless&utm_content=video) - Meta
 
 <br>
 ---
