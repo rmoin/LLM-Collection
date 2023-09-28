@@ -14,6 +14,9 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 ---
 
 ### Demos
+- [Dream Demo](https://app-openai-demo.azurewebsites.net/#/3a335201-2e7e-4e2c-a3ad-a8a9730c9367/landing-page)
+- [Copilot Single Agent](https://app-web-qlovebxnjj3ee.azurewebsites.net)
+- [Copilot Multi Agent](https://app-web-drnr5fjq6otlg.azurewebsites.net/)
 - [Chat with your data](https://entgptsearch.azurewebsites.net/) - [Code](https://github.com/Azure-Samples/azure-search-openai-demo/)
 - [Chat with Stuctured](https://aoaisearchdemo.azurewebsites.net/) - [Code](https://github.com/Azure-Samples/openai/tree/main/End_to_end_Solutions/AOAISearchDemo)
 - [Azure chatGPT Code](https://github.com/rmoin/AzureChatGPT)
