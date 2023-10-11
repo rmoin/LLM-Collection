@@ -136,7 +136,7 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [What runs chatGPT](https://www.youtube.com/watch?v=Rk3nTUfRZmo)
 - [Emerging LLM Architecture](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)
 - [The New Moat](https://greylock.com/greymatter/the-new-new-moats/)
-- [Yann LeCun chatoGPT Talk](https://www.youtube.com/watch?v=vyqXLJsmsrk&list=PLKemzYMx2_Ot1MZ_er2vFiINdJEgDO8Hg)
+- [Yann LeCun chatGPT Talk](https://www.youtube.com/watch?v=vyqXLJsmsrk&list=PLKemzYMx2_Ot1MZ_er2vFiINdJEgDO8Hg)
 - [LLM Adaptation Guide](https://foundationcapital.com/applying-generative-ai-to-enterprise-use-cases-a-step-by-step-guide/) - Foundation Capital Blog
 - [Multi Modal Transaltion Model](https://ai.meta.com/resources/models-and-libraries/seamless-communication/?utm_source=linkedin&utm_medium=organic_social&utm_campaign=seamless&utm_content=video) - Meta
 
