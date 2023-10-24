@@ -68,6 +68,8 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [Type Chat](https://github.com/microsoft/TypeChat/tree/main) - TypeChat replaces prompt engineering with schema engineering - Msft
 - [DeepSpeed Chat](https://github.com/microsoft/DeepSpeedExamples/tree/master/applications/DeepSpeed-Chat) - Easy, Fast and Affordable RLHF Training Framework - Msft
 - [Flowise - Build LLM Apps Easily](https://github.com/FlowiseAI/Flowise/tree/main)
+- [Autogen - Framework to build LLM applications using multiple agents](https://github.com/microsoft/autogen) - Microsoft
+- [Azure OpenAI Quick Demos](https://github.com/retkowsky/Azure-OpenAI-demos/tree/main) - Python notebook
 
 ### Workshop
 - [Workshop Wiki](https://github.com/microsoft/machine-learning-collection/wiki/Workshop)
@@ -108,6 +110,8 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [Azure OpenAI Cost Mgmt](https://techcommunity.microsoft.com/t5/azure-governance-and-management/azure-budgets-and-azure-openai-cost-management/ba-p/3904833?WT.mc_id=DT-MVP-5001664)
 - [Best Practices for chatGPT Implentation](https://medium.com/@imicknl/how-to-improve-your-chatgpt-on-your-data-solution-d1e842d87404)
 - [Streamlit Deployment on Azure](https://towardsdatascience.com/deploying-a-streamlit-web-app-with-azure-app-service-1f09a2159743)
+- [Jeremy's guide to Langauge Models](https://www.youtube.com/watch?v=jkrNMKz9pWU)
+- [Radius - open-source, cloud-native, application platform](https://radapp.io/)
 
 ## Blog, News & Webinar
 - [channel9 - AI Show](https://channel9.msdn.com/Shows/AI-Show) - videos for developers from people building Microsoft products and services.
