@@ -107,6 +107,7 @@ Libraries, tools, recipes, sample codes and workshop contents for LLM
 - [Fine Tuning LLama2 7b on AML](https://medium.com/mlearning-ai/azure-machine-learning-fine-tuning-llama2-7b-99af6e3af87)
 - [Azure OpenAI Cost Mgmt](https://techcommunity.microsoft.com/t5/azure-governance-and-management/azure-budgets-and-azure-openai-cost-management/ba-p/3904833?WT.mc_id=DT-MVP-5001664)
 - [Best Practices for chatGPT Implentation](https://medium.com/@imicknl/how-to-improve-your-chatgpt-on-your-data-solution-d1e842d87404)
+- [Streamlit Deployment on Azure](https://towardsdatascience.com/deploying-a-streamlit-web-app-with-azure-app-service-1f09a2159743
 
 ## Blog, News & Webinar
 - [channel9 - AI Show](https://channel9.msdn.com/Shows/AI-Show) - videos for developers from people building Microsoft products and services.
